@@ -1,0 +1,7 @@
+yfinance==0.2.40
+streamlit
+pandas
+plotly
+anthropic
+python-dotenv
+kaleido
